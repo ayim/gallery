@@ -1,26 +1,4 @@
 {
-  "Food": [
-    {
-      "width": 1500,
-      "path": "./photos/Food/20150915_171252.jpg",
-      "height": 844
-    },
-    {
-      "width": 1000,
-      "path": "./photos/Food/IMG_1010.jpg",
-      "height": 1500
-    },
-    {
-      "width": 1500,
-      "path": "./photos/Food/IMG_1701.jpg",
-      "height": 1000
-    },
-    {
-      "width": 1500,
-      "path": "./photos/Food/IMG_1739.jpg",
-      "height": 1000
-    }
-  ],
   "Automotive": [
     {
       "width": 1500,
@@ -59,11 +37,6 @@
     }
   ],
   "Product": [
-    {
-      "width": 1500,
-      "path": "./photos/Product/DINO!.jpg",
-      "height": 1000
-    },
     {
       "width": 1500,
       "path": "./photos/Product/IMG_0471.jpg",
@@ -125,48 +98,6 @@
       "width": 1500,
       "path": "./photos/Event/IMG_9167.jpg",
       "height": 1000
-    }
-  ],
-  "Travel": [
-    {
-      "width": 844,
-      "path": "./photos/Travel/20160817_203651.jpg",
-      "height": 1500
-    },
-    {
-      "width": 1500,
-      "path": "./photos/Travel/DSC_1581.jpg",
-      "height": 996
-    },
-    {
-      "width": 1500,
-      "path": "./photos/Travel/DSC_1607.jpg",
-      "height": 996
-    },
-    {
-      "width": 1125,
-      "path": "./photos/Travel/IMG_0976.jpg",
-      "height": 1500
-    },
-    {
-      "width": 1500,
-      "path": "./photos/Travel/IMG_0997.jpg",
-      "height": 1000
-    },
-    {
-      "width": 1500,
-      "path": "./photos/Travel/IMG_4262.jpg",
-      "height": 1000
-    },
-    {
-      "width": 1000,
-      "path": "./photos/Travel/IMG_4608.jpg",
-      "height": 1500
-    },
-    {
-      "width": 1125,
-      "path": "./photos/Travel/P1012890.jpg",
-      "height": 1500
     }
   ]
 }
