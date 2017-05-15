@@ -1,5 +1,27 @@
 {
-  "Automotive": [
+  "Product": [
+    {
+      "width": 1500,
+      "path": "./photos/Product/IMG_0470.jpg",
+      "height": 1000
+    },
+    {
+      "width": 1500,
+      "path": "./photos/Product/IMG_0471.jpg",
+      "height": 1000
+    },
+    {
+      "width": 1500,
+      "path": "./photos/Product/IMG_0502.jpg",
+      "height": 1000
+    },
+    {
+      "width": 1500,
+      "path": "./photos/Product/IMG_2876.jpg",
+      "height": 1000
+    }
+  ],
+    "Automotive": [
     {
       "width": 1500,
       "path": "./photos/Automotive/IMG_1951.jpg",
@@ -33,28 +55,6 @@
     {
       "width": 1500,
       "path": "./photos/Automotive/IMG_3238.jpg",
-      "height": 1000
-    }
-  ],
-  "Product": [
-    {
-      "width": 1500,
-      "path": "./photos/Product/IMG_0470.jpg",
-      "height": 1000
-    },
-    {
-      "width": 1500,
-      "path": "./photos/Product/IMG_0471.jpg",
-      "height": 1000
-    },
-    {
-      "width": 1500,
-      "path": "./photos/Product/IMG_0502.jpg",
-      "height": 1000
-    },
-    {
-      "width": 1500,
-      "path": "./photos/Product/IMG_2876.jpg",
       "height": 1000
     }
   ],
