@@ -1,185 +1,172 @@
 {
+  "Food": [
+    {
+      "width": 1500,
+      "path": "./photos/Food/20150915_171252.jpg",
+      "height": 844
+    },
+    {
+      "width": 1000,
+      "path": "./photos/Food/IMG_1010.jpg",
+      "height": 1500
+    },
+    {
+      "width": 1500,
+      "path": "./photos/Food/IMG_1701.jpg",
+      "height": 1000
+    },
+    {
+      "width": 1500,
+      "path": "./photos/Food/IMG_1739.jpg",
+      "height": 1000
+    }
+  ],
+  "Automotive": [
+    {
+      "width": 1500,
+      "path": "./photos/Automotive/IMG_1951.jpg",
+      "height": 1000
+    },
+    {
+      "width": 1500,
+      "path": "./photos/Automotive/IMG_2401.jpg",
+      "height": 1000
+    },
+    {
+      "width": 1500,
+      "path": "./photos/Automotive/IMG_3117.jpg",
+      "height": 998
+    },
+    {
+      "width": 1000,
+      "path": "./photos/Automotive/IMG_3123.jpg",
+      "height": 1500
+    },
+    {
+      "width": 1500,
+      "path": "./photos/Automotive/IMG_3143.jpg",
+      "height": 1000
+    },
+    {
+      "width": 1500,
+      "path": "./photos/Automotive/IMG_3217.jpg",
+      "height": 1000
+    },
+    {
+      "width": 1500,
+      "path": "./photos/Automotive/IMG_3238.jpg",
+      "height": 1000
+    }
+  ],
+  "Product": [
+    {
+      "width": 1500,
+      "path": "./photos/Product/DINO!.jpg",
+      "height": 1000
+    },
+    {
+      "width": 1500,
+      "path": "./photos/Product/IMG_0471.jpg",
+      "height": 1000
+    },
+    {
+      "width": 1500,
+      "path": "./photos/Product/IMG_0502.jpg",
+      "height": 1000
+    },
+    {
+      "width": 1500,
+      "path": "./photos/Product/IMG_0529.jpg",
+      "height": 1000
+    },
+    {
+      "width": 1500,
+      "path": "./photos/Product/IMG_2876.jpg",
+      "height": 1000
+    }
+  ],
+  "Event": [
+    {
+      "width": 1500,
+      "path": "./photos/Event/8034350246_426778eae6_k.jpg",
+      "height": 1000
+    },
+    {
+      "width": 1500,
+      "path": "./photos/Event/IMG_3605.jpg",
+      "height": 1000
+    },
+    {
+      "width": 1500,
+      "path": "./photos/Event/IMG_5549.jpg",
+      "height": 1000
+    },
+    {
+      "width": 1500,
+      "path": "./photos/Event/IMG_6828.jpg",
+      "height": 1000
+    },
+    {
+      "width": 1000,
+      "path": "./photos/Event/IMG_7823.jpg",
+      "height": 1500
+    },
+    {
+      "width": 1000,
+      "path": "./photos/Event/IMG_7888.jpg",
+      "height": 1500
+    },
+    {
+      "width": 1500,
+      "path": "./photos/Event/IMG_8947.jpg",
+      "height": 1000
+    },
+    {
+      "width": 1500,
+      "path": "./photos/Event/IMG_9167.jpg",
+      "height": 1000
+    }
+  ],
   "Travel": [
     {
-      "width": 1500,
-      "path": "./photos/Travel/20160406-20160505DSCF2086.jpg",
-      "height": 2000
-    },
-    {
-      "width": 1500,
-      "path": "./photos/Travel/20160407-20160506DSCF2292.jpg",
-      "height": 2000
-    },
-    {
-      "width": 2000,
-      "path": "./photos/Travel/IMG_7438.jpg",
-      "height": 1333
-    },
-    {
-      "width": 2000,
-      "path": "./photos/Travel/IMG_7575.jpg",
-      "height": 1500
-    },
-    {
-      "width": 1333,
-      "path": "./photos/Travel/IMG_7593.jpg",
-      "height": 2000
-    },
-    {
-      "width": 1500,
-      "path": "./photos/Travel/IMG_9227.jpg",
-      "height": 2000
-    },
-    {
-      "width": 2000,
-      "path": "./photos/Travel/IMG_9675.jpg",
-      "height": 1333
-    },
-    {
-      "width": 1500,
-      "path": "./photos/Travel/IMG_9863.jpg",
-      "height": 2000
-    }
-  ],
-  "Street": [
-    {
-      "width": 2000,
-      "path": "./photos/Street/IMG_5269.jpg",
-      "height": 1333
-    },
-    {
-      "width": 2000,
-      "path": "./photos/Street/IMG_5628.jpg",
-      "height": 1500
-    },
-    {
-      "width": 1820,
-      "path": "./photos/Street/IMG_5959.jpg",
-      "height": 2000
-    },
-    {
-      "width": 2000,
-      "path": "./photos/Street/IMG_9905.jpg",
-      "height": 1333
-    },
-    {
-      "width": 1333,
-      "path": "./photos/Street/IMG_9966.jpg",
-      "height": 2000
-    }
-  ],
-  "California": [
-    {
-      "width": 1500,
-      "path": "./photos/California/DSCF1725.jpg",
-      "height": 2000
-    },
-    {
-      "width": 1500,
-      "path": "./photos/California/DSCF1894.jpg",
-      "height": 2000
-    },
-    {
-      "width": 1500,
-      "path": "./photos/California/DSCF2242.jpg",
-      "height": 2000
-    },
-    {
-      "width": 1500,
-      "path": "./photos/California/DSCF2255.jpg",
-      "height": 2000
-    },
-    {
-      "width": 1500,
-      "path": "./photos/California/DSCF2338.jpg",
-      "height": 2000
-    },
-    {
-      "width": 1500,
-      "path": "./photos/California/DSCF2384.jpg",
-      "height": 2000
-    },
-    {
-      "width": 1333,
-      "path": "./photos/California/DSCF2926.jpg",
-      "height": 2000
-    },
-    {
-      "width": 1500,
-      "path": "./photos/California/DSCF2986.jpg",
-      "height": 2000
-    },
-    {
-      "width": 2000,
-      "path": "./photos/California/DSCF3125.jpg",
-      "height": 1333
-    },
-    {
-      "width": 1500,
-      "path": "./photos/California/DSCF3168.jpg",
-      "height": 2000
-    }
-  ],
-  "People": [
-    {
-      "width": 2000,
-      "path": "./photos/People/DSCF0238.jpg",
-      "height": 1333
-    },
-    {
-      "width": 2000,
-      "path": "./photos/People/DSCF0553.jpg",
-      "height": 1333
-    },
-    {
-      "width": 2000,
-      "path": "./photos/People/DSCF0589.jpg",
+      "width": 844,
+      "path": "./photos/Travel/20160817_203651.jpg",
       "height": 1500
     },
     {
       "width": 1500,
-      "path": "./photos/People/DSCF0802.jpg",
-      "height": 2000
+      "path": "./photos/Travel/DSC_1581.jpg",
+      "height": 996
     },
     {
       "width": 1500,
-      "path": "./photos/People/DSCF1676.jpg",
-      "height": 2000
+      "path": "./photos/Travel/DSC_1607.jpg",
+      "height": 996
+    },
+    {
+      "width": 1125,
+      "path": "./photos/Travel/IMG_0976.jpg",
+      "height": 1500
     },
     {
       "width": 1500,
-      "path": "./photos/People/DSCF2438.jpg",
-      "height": 2000
-    },
-    {
-      "width": 1333,
-      "path": "./photos/People/DSCF3044.jpg",
-      "height": 2000
+      "path": "./photos/Travel/IMG_0997.jpg",
+      "height": 1000
     },
     {
       "width": 1500,
-      "path": "./photos/People/DSCF3276.jpg",
-      "height": 2000
+      "path": "./photos/Travel/IMG_4262.jpg",
+      "height": 1000
     },
     {
-      "width": 1500,
-      "path": "./photos/People/DSCF3297.jpg",
-      "height": 2000
+      "width": 1000,
+      "path": "./photos/Travel/IMG_4608.jpg",
+      "height": 1500
     },
     {
-      "width": 1500,
-      "path": "./photos/People/DSCF3315.jpg",
-      "height": 2000
-    },
-    {
-      "width": 1500,
-      "path": "./photos/People/DSCF3356.jpg",
-      "height": 2000
-    },
-    {
-      "width": 2000,
-      "path": "./photos/People/IMG_7888.jpg",
-      "height": 1250
+      "width": 1125,
+      "path": "./photos/Travel/P1012890.jpg",
+      "height": 1500
     }
   ]
 }
